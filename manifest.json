@@ -1,8 +1,6 @@
 {  
-    "name": "Webshine Learning - Join us to learn more.",  
     "short_name": "Todo List",  
-    "description": "Webshine Learning - Join us to learn more.",  
-    "start_url": "index.html?home=true",  
+    "name": "Webshine Learning - Join us to learn more.", 
     "icons": [  
       {  
         "src": "./images/todo-36.png",  
