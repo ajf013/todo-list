@@ -57,10 +57,10 @@ ol{
 }
 ol li{
 	width: 100%;
-	padding: 10px;
-	margin: 30px 0;
+	padding: 5px;
+	margin: 6px 0;
 	background: #e96969bb;
-	font-size: 18px;
+	font-size: 15px;
 	counter-increment: my-counter;
 }
 ol.Completed li{
