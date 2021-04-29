@@ -57,8 +57,8 @@ ol{
 }
 ol li{
 	width: 100%;
-	padding: 20px;
-	margin: 20px 0;
+	padding: 10px;
+	margin: 30px 0;
 	background: #e96969bb;
 	font-size: 18px;
 	counter-increment: my-counter;
